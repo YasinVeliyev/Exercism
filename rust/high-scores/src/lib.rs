@@ -14,7 +14,7 @@ impl HighScores {
     }
 
     pub fn latest(&self) -> Option<u32> {
-        unimplemented!("Return the latest (last) score")
+        todo!()
     }
 
     pub fn personal_best(&self) -> Option<u32> {
