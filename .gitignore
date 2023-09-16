@@ -1,3 +1,7 @@
 */target
 */node_modules
-*/node_modules/*
+javascript/change/node_modules
+javascript/bird_watcher/node_modules
+.eslintrc
+babel.config.js
+.npmrc
